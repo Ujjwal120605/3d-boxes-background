@@ -8,7 +8,7 @@ A fun and interactive 3D background made with HTML, CSS, and JavaScript. Click t
 
 ## 🚀 Live Preview
 
-👉 [Click here to see the live demo](#) *(replace this with GitHub Pages link if deployed)*
+[*(replace this with GitHub Pages link if deployed)*](http://127.0.0.1:5500/index.html)
 
 ---
 
